@@ -11,5 +11,26 @@ First you need to download the app which is available on releases.
 
 To use it is simple, just create a blank folder and run the application.
 
+## Folder architeture
+
+```
+   assets/
+      images/
+
+   server/
+      main.lua
+
+   client/
+      main.lua
+
+   shared/
+      config.lua
+
+   meta.xml
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
